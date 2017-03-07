@@ -7,7 +7,7 @@
 |		Steps				|			Illustration 			|
 |---------------------------|-----------------------------------|
 |Step 1: Open the Menu bar in the top right of your chrome browser|![GoogleChrome_Menu_Icon](https://github.com/stephanmario/Markdown_Images/blob/master/GooglChrome_MenuIcon.png)|
-|Step 2: Click on Tools ---> Clear Browsing Data|![GoogleChrome_Menu_Tools](https://github.com/stephanmario/Markdown_Images/blob/master/GoogleChrome_ClearBrowsingDataMenu.jpeg)|
+|Step 2: Click on Tools ---> Clear Browsing Data|![GoogleChrome_Menu_Tools](https://github.com/stephanmario/Markdown_Images/blob/master/GoogleChrome_ClearBrowsingDataMenu.png)|
 |Step 3: A new window will open. Check the following: <br> - **Download History** <br> - **Cookies and other site and plug-in data** <br> - **Cached images and file** <br> Then **CLICK** [Clear Browsing Data]|![ClearBrowserCheckBox](https://github.com/stephanmario/Markdown_Images/blob/master/GoogleClearBrowsingData_checkBox.png) |
 <br>
 
