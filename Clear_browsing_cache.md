@@ -22,5 +22,5 @@
 |	Step	|	Illustration	|
 |-------|-------|
 |**Click** the [menu button] <br> **Choose** [Preferences]|![FireFox_Menu_preferences](https://github.com/stephanmario/Markdown_Images/blob/master/FirefoxMenu_Icon.png)		|
-|**Click** [Advanced] Panel  **And The ** [Network] panel,<br> **Under** the [Cached Web Content] <br> **Click** [Clear Now]|![FirefoxClearCache](https://github.com/stephanmario/Markdown_Images/blob/master/FireFox_clearCache.png) |
+|**Click** [Advanced] Panel  **Then The** [Network] panel,<br> **Under** the [Cached Web Content] <br> **Click** [Clear Now]|![FirefoxClearCache](https://github.com/stephanmario/Markdown_Images/blob/master/FireFox_clearCache.png) |
 
