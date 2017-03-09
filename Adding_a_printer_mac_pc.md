@@ -14,5 +14,5 @@
 |Steps|Illustration|
 |-----|------------|
 |Type "Settings" in the start menu <br> **Select** the **devices** menu|![SettingsMenuDevices](https://github.com/stephanmario/Markdown_Images/blob/master/SettingsMenuDevices.PNG)|
-|- Click on **Add Printer** <br> - Wait... Then *Select* "The Printer I want isn't Listed" <br> - Select the **Add a printer using a TCP/IP Address or Hostname**|![PrinterWasNotListed](https://github.com/stephanmario/Markdown_Images/blob/master/AddPrinterSelection.PNG) <br> ![AddPrinterByIP](https://github.com/stephanmario/Markdown_Images/blob/master/AddPrinterSelection.PNG)|
+|- Click on **Add Printer** <br> - Wait... Then *Select* "The Printer I want isn't Listed" <br> - Select the **Add a printer using a TCP/IP Address or Hostname**|![PrinterWasNotListed](https://github.com/stephanmario/Markdown_Images/blob/master/AddPrinterSelection.PNG) <br> ![AddPrinterByIP](https://github.com/stephanmario/Markdown_Images/blob/master/PrinterNotListed.PNG)|
 |Enter the Hostname/IP address and Click Next|![AddIP](https://github.com/stephanmario/Markdown_Images/blob/master/EnterByIP.PNG)|
